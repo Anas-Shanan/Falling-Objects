@@ -20,7 +20,7 @@ body {
 
 /* Canvas styling */
 #gameCanvas {
-  border: 2px solid #333;
+  border: 2px solid #e00f0f;
   background-color: #fff;
   display: block;
   margin: 0 auto;
@@ -32,7 +32,7 @@ body {
   padding: 10px 20px;
   font-size: 16px;
   color: #fff;
-  background-color: #007bff;
+  background-color: #232324;
   border: none;
   border-radius: 5px;
   cursor: pointer;
